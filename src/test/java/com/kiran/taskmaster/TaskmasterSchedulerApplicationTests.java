@@ -1,4 +1,4 @@
-package com.kiran.taskmaster_scheduler;
+package com.kiran.taskmaster;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

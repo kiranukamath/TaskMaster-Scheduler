@@ -1,4 +1,4 @@
-package com.kiran.taskmaster_scheduler;
+package com.kiran.taskmaster;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
